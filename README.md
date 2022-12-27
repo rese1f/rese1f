@@ -1,5 +1,4 @@
-# Hi, I'm Wenhao (Reself) Chai
-
+Hi, I'm Wenhao (Reself) Chai
 
 My research interests lie in `3D Human Pose Estimation`, `Domain Adaptation`, and `Multimodal Learning`.
 
