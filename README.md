@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/blog-@rese1f-red.svg)](rese1f.github.io)
+[![](https://img.shields.io/badge/blog-@rese1f-red.svg)](https://rese1f.github.io/)
 
 My name is **Wenhao (Reself) Chai** and I am currently an _undergrad @ Zhejiang University_. 
 I am also a computer vision researcher with a focus on `3D human pose estimation` and `multimodal learning`. 
