@@ -1,7 +1,8 @@
-My name is **Wenhao (Reself) Chai** and I am currently an _undergrad @ Zhejiang University_. 
-I am also a computer vision researcher with a focus on `3D human pose estimation` and `multimodal learning`. 
+I am **Wenhao Chai**, an undergradate student at Zhejiang University. My research interests lie in 3D human pose estimation and multi-modality learning. I am currently working on *diffusion model* and *multi-modality learning* for human related generative tasks.
 
 I am excited to share my works and projects with the community, and I hope to collaborate with others in the field to push the boundaries of what is possible with computer vision.
+
+When I'm not doing research, I like photography📷, traveling🚗, and singing🎤.
 
 Please connect me with:
 
