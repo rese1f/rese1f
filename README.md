@@ -18,10 +18,10 @@ Please connect me with:
 </a>
 <a href="https://twitter.com/re5e1f" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%232E87FB.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-<a href="https://www.instagram.com/rese1f/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-<a href="./src/wechat.jpg" target="_blank">
+ <a href="./src/wechat.jpg" target="_blank">
 <img src=https://img.shields.io/badge/wechat-%a3c62b.svg?&style=for-the-badge&logo=wechat&logoColor=white alt=wechat style="margin-bottom: 5px;" />
+</a>  
+<a href="https://www.instagram.com/rese1f/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-e1306c.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
