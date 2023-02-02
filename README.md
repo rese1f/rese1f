@@ -8,7 +8,7 @@ Please connect me with:
 
 <div align="center">
 <a href="https://rese1f.github.io/" target="_blank">
-<img src=https://img.shields.io/badge/website-%239cf.svg?&style=for-the-badge&logo=github&logoColor=white alt=blog style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/home-%239cf.svg?&style=for-the-badge&logo=github&logoColor=white alt=website style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/rese1f" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
