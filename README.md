@@ -19,4 +19,7 @@ Please connect me with:
 <a href="https://twitter.com/re5e1f" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
+<a href="./src/wechat.jpg" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
 </div>  
