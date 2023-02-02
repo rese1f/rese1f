@@ -17,9 +17,9 @@ Please connect me with:
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/re5e1f" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/twitter-%232E87FB.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 <a href="./src/wechat.jpg" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/wechat-%a3c62b.svg?&style=for-the-badge&logo=wechat&logoColor=white alt=wechat style="margin-bottom: 5px;" />
 </a>  
 </div>  
