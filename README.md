@@ -1,6 +1,4 @@
-I am **Wenhao Chai**, an undergradate student at Zhejiang University. My research interests lie in 3D human pose estimation and multi-modality learning. I am currently working on *diffusion model* and *multi-modality learning* for human related generative tasks.
-
-I am excited to share my works and projects with the community, and I hope to collaborate with others in the field to push the boundaries of what is possible with computer vision.
+I am an master student of Information Processing Lab at University of Washington, advised by Professor Jenq-Neng Hwang. I am currently working on human pose estimation, diffusion model and multi-modality learning for generative tasks.
 
 When I am not doing research, I like photography📷, traveling🚗, and singing🎤.
 
