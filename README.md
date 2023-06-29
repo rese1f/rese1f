@@ -1,6 +1,6 @@
-I am an master student of Information Processing Lab at University of Washington, advised by Professor Jenq-Neng Hwang. I am currently working on human pose estimation, diffusion model and multi-modality learning for generative tasks.
+I am an master student of Information Processing Lab at University of Washington, advised by Professor Jenq-Neng Hwang. I am currently working on large multimodal models, unified vision perception models, and embodied ai.
 
-When I am not doing research, I like photography📷, traveling🚗, and singing🎤.
+When I am not doing research, I like photography, traveling, and singing.
 
 <div align="center">
 <a href="https://rese1f.github.io/" target="_blank">
