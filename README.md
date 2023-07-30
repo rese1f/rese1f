@@ -21,3 +21,45 @@ When I am not doing research, I like photography, traveling, and singing.
 <img src=https://img.shields.io/badge/instagram-e1306c.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<b><i class="fa-solid fa-pen-to-square" style="font-size:24px"></i> 2023 News:</b><br><br>
+
+<ul>
+<li><i>July 2023:</i> <i class="fa-regular fa-note-sticky" style="font-size:20px"></i> Our paper <i>Sequential Affinity Learning for Video Restoration</i> is accepted by ACM MM 2023.
+	</li><br>
+
+<li><i>July 2023:</i> <i class="fa-regular fa-note-sticky" style="font-size:20px"></i> Our paper <i>PoSynDA: Multi-Hypothesis Pose Synthesis Domain Adaptation for Enhanced 3D Human Pose Estimation</i> is accepted by ACM MM 2023.
+	</li><br>
+
+<li><i>July 2023:</i> <i class="fa-regular fa-copy" style="font-size:20px"></i> Our project <i>MovieChat: From Dense Token to Sparse Memory in Long Video Understanding</i> is released at <a href="https://rese1f.github.io/MovieChat/">website</a>.
+	</li><br>
+
+<li><i>July 2023:</i> Finish my internship at Microsoft Research Asia (MSRA), Beijing. I appreciate the helpful guidance and suggestions from my mentor Dr. Xun Guo during the internship.
+	</li><br>
+
+<li><i>July 2023:</i> <i class="fa-regular fa-note-sticky" style="font-size:20px"></i> Our paper <i>StableVideo: Text-driven Consistency-aware Diffusion Video Editing</i> is accepted by ICCV 2023.
+	</li><br>
+
+<li><i>July 2023:</i> <i class="fa-regular fa-note-sticky" style="font-size:20px"></i> Our paper <i>Global Adaptation meets Local Generalization: Unsupervised Domain Adaptation for 3D Human Pose Estimation</i> is accepted by ICCV 2023.
+	</li><br>
+
+<li><i>July 2023:</i> <i class="fa-regular fa-note-sticky" style="font-size:20px"></i> Our paper <i>DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models</i> is accepted by IEEE T-MM.
+	</li><br>
+	
+<li><i>June 2023:</i> I graduate from Zhejiang University.
+	</li><br>
+
+<li><i>Apr 2023:</i> <i class="fa-regular fa-note-sticky" style="font-size:20px"></i> The short version of our paper <i>DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models</i> is accepted by CVPR 2023 <a href="http://conferences.visionbib.com/2023/cvpr-cvfad-6-23-call.html">6th Workshop on Computer Vision for Fashion, Art, and Design</a>.
+	</li><br>
+
+<li><i>Mar 2023:</i> <i class="fa-regular fa-note-sticky" style="font-size:20px"></i> Our paper <i>Deep Learning Methods for Small Molecule Drug Discovery: A Survey</i> is accepted by IEEE T-AI.
+	</li><br>
+
+<li><i>Mar 2023:</i> Become a graduate student member of <a href="https://ipl-uw.github.io/">Information Processing Lab</a> at University of Washington, advised by Professor <a href="https://people.ece.uw.edu/hwang/">Jenq-Neng Hwang</a>.
+	</li><br>
+	
+<li><i>Feb 2023:</i> Become a research intern at <a href="https://www.msra.cn/">Microsoft Research Asia (MSRA)</a>, advised by principal researcher <a href="https://scholar.google.com/citations?user=Ow4R8-EAAAAJ&hl=en&oi=ao">Xun Guo</a>.
+	</li><br>
+
+</ul>
