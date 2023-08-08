@@ -1,4 +1,4 @@
-I am an master student of Information Processing Lab at University of Washington, advised by Professor Jenq-Neng Hwang. I am currently working on human perception model, generative model, video understanding, and multi-modality learning.
+On 23 FA, I will be a master student of Information Processing Lab at University of Washington, advised by Professor Jenq-Neng Hwang. I am currently working on human perception model, generative model, video understanding, and multi-modality learning.
 
 When I am not doing research, I like photography, traveling, and singing.
 
