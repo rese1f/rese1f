@@ -23,7 +23,7 @@ When I am not doing research, I like photography, traveling, and singing.
 </div>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-<b><i class="fa-solid fa-pen-to-square" style="font-size:24px"></i> 2023 News:</b><br><br>
+<b><i class="fa-solid fa-pen-to-square" style="font-size:24px"></i> Updates:</b><br><br>
 
 <ul>
 <li><i>July 2023:</i> <i class="fa-regular fa-note-sticky" style="font-size:20px"></i> Our paper <i>Sequential Affinity Learning for Video Restoration</i> is accepted by ACM MM 2023.
