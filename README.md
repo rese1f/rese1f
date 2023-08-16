@@ -41,9 +41,6 @@ When I am not doing research, I like photography, traveling, and singing.
 <li><i>July 2023:</i> <i class="fa-regular fa-note-sticky" style="font-size:20px"></i> Our paper <i>Global Adaptation meets Local Generalization: Unsupervised Domain Adaptation for 3D Human Pose Estimation</i> is accepted by ICCV 2023.
 	</li><br>
 
-<li><i>July 2023:</i> <i class="fa-regular fa-note-sticky" style="font-size:20px"></i> Our paper <i>DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models</i> is accepted by IEEE T-MM.
-	</li><br>
-
 <li><i>Apr 2023:</i> <i class="fa-regular fa-note-sticky" style="font-size:20px"></i> The short version of our paper <i>DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models</i> is accepted by CVPR 2023 <a href="http://conferences.visionbib.com/2023/cvpr-cvfad-6-23-call.html">6th Workshop on Computer Vision for Fashion, Art, and Design</a>.
 	</li><br>
 
