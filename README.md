@@ -26,6 +26,10 @@ When I am not doing research, I like photography, traveling, and singing.
 <b><i class="fa-solid fa-pen-to-square" style="font-size:24px"></i> Updates:</b><br><br>
 
 <ul>
+
+<li><i>Sept 2023:</i> <i class="fa-regular fa-note-sticky" style="font-size:20px"></i> Our paper <i>DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models</i> is accepted by IEEE T-MM.
+	</li><br>
+ 
 <li><i>Aug 2023:</i> <i class="fa-regular fa-note-sticky" style="font-size:20px"></i> Our paper <i>Five A+ Network: You Only Need 9K Parameters for Underwater Image Enhancement</i> is accepted by BMVC 2023.
 	</li><br>
  
