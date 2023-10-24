@@ -27,6 +27,9 @@ When I am not doing research, I like photography, traveling, and singing.
 
 <ul>
 
+<li><i>Oct 2023:</i> <i class="fa-regular fa-note-sticky" style="font-size:20px"></i> Our paper <i>Back to Optimization: Diffusion-based Zero-Shot 3D Human Pose Estimation</i> is accepted by WACV 2024.
+	</li><br>
+
 <li><i>Sept 2023:</i> <i class="fa-regular fa-note-sticky" style="font-size:20px"></i> Our paper <i>Devil in the Number: Towards Robust Multi-modality Data Filter</i> is accepted by ICCV 2023 workshop: <a href="https://www.datacomp.ai/">TNGCV-DataComp</a>.
 	</li><br>
 
