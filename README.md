@@ -22,6 +22,14 @@ When I am not doing research, I like photography, traveling, and singing.
 </a>  
 </div>
 
+<br>
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<b><i class="fa-solid fa-pen-to-square" style="font-size:24px"></i> My GPTs:</b><br><br>
+
+- [Academic Paper Writing Assistant](https://chat.openai.com/g/g-3JjMSVsuP-academic-paper-writing-assistant): For AI academic papers.
+- [Paper Search Engine](https://chat.openai.com/g/g-9v5gHG9Bo-paper-search-engine): Expert in latest academic paper search and summary.
+
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <b><i class="fa-solid fa-pen-to-square" style="font-size:24px"></i> Updates:</b><br><br>
 
