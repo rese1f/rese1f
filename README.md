@@ -1,4 +1,4 @@
-On 23 FA, I will be a master student of Information Processing Lab at University of Washington, advised by Professor Jenq-Neng Hwang. I am currently working on embodied agent and video understanding.
+I am a master student of Information Processing Lab at University of Washington, advised by Professor Jenq-Neng Hwang. I am currently working on embodied agent and video understanding.
 
 When I am not doing research, I like photography, traveling, and singing.
 
