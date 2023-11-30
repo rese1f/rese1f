@@ -35,6 +35,9 @@ When I am not doing research, I like photography, traveling, and singing.
 
 <ul>
 
+<li><i>Dec 2023:</i> <i class="fa-regular fa-copy" style="font-size:20px"></i> Our project <i>See and Think: Embodied Agent in Virtual Environment</i> is released at <a href="https://rese1f.github.io/STEVE/">website</a>.
+	</li><br>
+
 <li><i>Nov 2023:</i> <i class="fa-regular fa-note-sticky" style="font-size:20px"></i> Our paper <i>Efficient Domain Adaptation via Generative Prior for 3D Infant Pose Estimation</i> is accepted by WACV 2024 workshop: <a href="https://cv4smalls.sites.northeastern.edu/">CV4Smalls</a>.
 	</li><br>
 
