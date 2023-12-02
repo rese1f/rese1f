@@ -35,6 +35,9 @@ When I am not doing research, I like photography, traveling, and singing.
 
 <ul>
 
+<li><i>Dec 2023:</i> <i class="fa-regular fa-copy" style="font-size:20px"></i> Our project <i>CityGen: Infinite and Controllable 3D City Layout Generation</i> is released at <a href="https://rese1f.github.io/CityGen/">website</a>.
+	</li><br>
+
 <li><i>Dec 2023:</i> <i class="fa-regular fa-copy" style="font-size:20px"></i> Our project <i>See and Think: Embodied Agent in Virtual Environment</i> is released at <a href="https://rese1f.github.io/STEVE/">website</a>.
 	</li><br>
 
