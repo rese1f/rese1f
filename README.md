@@ -35,6 +35,10 @@ When I am not doing research, I like photography, traveling, and singing.
 
 <ul>
 
+<li><i>Oct 2023:</i> <i class="fa-regular fa-note-sticky" style="font-size:20px"></i> Our paper <i>UniAP: Towards Universal Animal Perception in Vision via Few-shot Learning
+</i> is accepted by AAAI 2024.
+	</li><br>
+
 <li><i>Dec 2023:</i> <i class="fa-regular fa-copy" style="font-size:20px"></i> Our project <i>CityGen: Infinite and Controllable 3D City Layout Generation</i> is released at <a href="https://rese1f.github.io/CityGen/">website</a>.
 	</li><br>
 
