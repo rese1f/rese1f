@@ -40,12 +40,6 @@ When I am not doing research, I like photography, traveling, and singing.
 	<li><i>Dec 2023:</i>
 		Our paper <i>UniAP: Towards Universal Animal Perception in Vision via Few-shot Learning</i> is accepted by AAAI 2024.
 	</li><br>
-	<li><i>Dec 2023:</i>
-		Our project <i>CityGen: Infinite and Controllable 3D City Layout Generation</i> is released.
-	</li><br>
-	<li><i>Dec 2023:</i> 
-		Our project <i>See and Think: Embodied Agent in Virtual Environment</i> is released.
-	</li><br>
 	<li><i>Sept 2023:</i> 
 		Our paper <i>DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models</i> is accepted by IEEE T-MM.
 	</li><br>
@@ -54,9 +48,6 @@ When I am not doing research, I like photography, traveling, and singing.
 	</li><br>
 	<li><i>July 2023:</i> 
 		Our paper <i>PoSynDA: Multi-Hypothesis Pose Synthesis Domain Adaptation for Enhanced 3D Human Pose Estimation</i> is accepted by ACM MM 2023.
-	</li><br>
-	<li><i>July 2023:</i>
-		Our project <i>MovieChat: From Dense Token to Sparse Memory in Long Video Understanding</i> is released.
 	</li><br>
 	<li><i>July 2023:</i> Finish my internship at Microsoft Research Asia (MSRA), Beijing. I appreciate the helpful guidance and suggestions from my mentor Dr. Xun Guo during the internship.
 	</li><br>
