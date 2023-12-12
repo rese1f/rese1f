@@ -38,6 +38,9 @@ When I am not doing research, I like photography, traveling, and singing.
 
 <ul>
 	<li><i>Dec 2023:</i>
+		Our paper <i>Blind Inpainting with Object-aware Discrimination for Artificial Marker Removal</i> is accepted by ICASSP 2024.
+	</li><br>
+	<li><i>Dec 2023:</i>
 		Our paper <i>UniAP: Towards Universal Animal Perception in Vision via Few-shot Learning</i> is accepted by AAAI 2024.
 	</li><br>
 	<li><i>Sept 2023:</i> 
