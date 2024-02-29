@@ -1,4 +1,4 @@
-I am a master student of Information Processing Lab at University of Washington, advised by Professor Jenq-Neng Hwang. I am currently working on embodied agent and video understanding. Have a look at my [homepage](https://rese1f.github.io/) for more details.
+I am a master student of Information Processing Lab at University of Washington. I am currently working on embodied agent and video understanding. Have a look at my [homepage](https://rese1f.github.io/) for more details.
 
 When I am not doing research, I like photography, traveling, and singing.
 
@@ -36,35 +36,16 @@ When I am not doing research, I like photography, traveling, and singing.
 <br>
 <br>
 
-<ul>
-	<li><i>Dec 2023:</i>
-		Our paper <i>Blind Inpainting with Object-aware Discrimination for Artificial Marker Removal</i> is accepted by ICASSP 2024.
-	</li><br>
-	<li><i>Dec 2023:</i>
-		Our paper <i>UniAP: Towards Universal Animal Perception in Vision via Few-shot Learning</i> is accepted by AAAI 2024.
-	</li><br>
-	<li><i>Sept 2023:</i> 
-		Our paper <i>DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models</i> is accepted by IEEE T-MM.
-	</li><br>
-	<li><i>July 2023:</i> 
-		Our paper <i>Sequential Affinity Learning for Video Restoration</i> is accepted by ACM MM 2023.
-	</li><br>
-	<li><i>July 2023:</i> 
-		Our paper <i>PoSynDA: Multi-Hypothesis Pose Synthesis Domain Adaptation for Enhanced 3D Human Pose Estimation</i> is accepted by ACM MM 2023.
-	</li><br>
-	<li><i>July 2023:</i> Finish my internship at Microsoft Research Asia (MSRA), Beijing. I appreciate the helpful guidance and suggestions from my mentor Dr. Xun Guo during the internship.
-	</li><br>
-	<li><i>July 2023:</i> 
-		Our paper <i>StableVideo: Text-driven Consistency-aware Diffusion Video Editing</i> is accepted by ICCV 2023.
-	</li><br>
-	<li><i>July 2023:</i> 
-		Our paper <i>Global Adaptation meets Local Generalization: Unsupervised Domain Adaptation for 3D Human Pose Estimation</i> is accepted by ICCV 2023.
-	</li><br>
-	<li><i>June 2023:</i> I graduate from Zhejiang University.
-	</li><br>
-	<li><i>Mar 2023:</i> Become a graduate student member of <a href="https://ipl-uw.github.io/">Information Processing Lab</a> at University of Washington, advised by Professor <a href="https://people.ece.uw.edu/hwang/">Jenq-Neng Hwang</a>.
-	</li><br>
-	<li><i>Feb 2023:</i> Become a research intern at <a href="https://www.msra.cn/">Microsoft Research Asia (MSRA)</a>, advised by principal researcher <a href="https://scholar.google.com/citations?user=Ow4R8-EAAAAJ&hl=en&oi=ao">Xun Guo</a>.
-	</li><br>
-</ul>
+- **02/2024**: Two papers accepted to CVPR 2024.
+- **02/2024**: Invited talk at AAAI 2024 workshop at [IMAGEOMICS](https://sites.google.com/vt.edu/imageomics-aaai-24/).
+- **12/2023**: One paper accepted to ICASSP 2024.
+- **12/2023**: One paper accepted to AAAI 2024.
+- **11/2023**: Two papers accepted to WACV 2024 workshop at [CV4Smalls](https://cv4smalls.sites.northeastern.edu/).
+- **09/2023**: One paper accepted to ICCV 2023 workshop at [TNGCV-DataComp](https://www.datacomp.ai/).
+- **09/2023**: One paper accepted to IEEE T-MM.
+- **08/2023**: One paper accepted to BMVC 2023.
+- **07/2023**: Two papers accepted to ACM MM 2023.
+- **07/2023**: Finished my research internship at Microsoft Research Asia (MSRA), Beijing.
+- **07/2023**: Two papers accepted to ICCV 2023.
+
 
