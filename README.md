@@ -36,7 +36,7 @@ When I am not doing research, I like photography, traveling, and singing.
 <br>
 <br>
 
-- **03/2024**: Two papers accepted to ICLR 2024 workshop at [LLM Agents](https://llmagents.github.io/).
+- **03/2024**: One paper accepted to ICLR 2024 workshop at [LLM Agents](https://llmagents.github.io/).
 - **02/2024**: Two papers accepted to CVPR 2024.
 - **02/2024**: Invited talk at AAAI 2024 workshop at [IMAGEOMICS](https://sites.google.com/vt.edu/imageomics-aaai-24/).
 - **12/2023**: One paper accepted to ICASSP 2024.
