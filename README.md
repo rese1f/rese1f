@@ -35,6 +35,7 @@ When I am not doing research, I like photography, traveling, and singing.
 
 <br>
 <br>
+
 - **06/2024**: One technique report accepted to CVPR 2024 workshop @ NTIRE.
 - **06/2024**: We are working with Pika Lab to develop next-generation video understanding and generation models.
 - **05/2024**: One paper accepted to CVPR 2024 workshop @ Embodied AI.
