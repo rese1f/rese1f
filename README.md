@@ -35,7 +35,11 @@ When I am not doing research, I like photography, traveling, and singing.
 
 <br>
 <br>
-
+- **06/2024**: One technique report accepted to CVPR 2024 workshop @ NTIRE.
+- **06/2024**: We are working with Pika Lab to develop next-generation video understanding and generation models.
+- **05/2024**: One paper accepted to CVPR 2024 workshop @ Embodied AI.
+- **04/2024**: We are hosting CVPR 2024 Long-form Video Understanding Challenge @ LOVEU.
+- **04/2024**: Invited talk at AgentX seminar about our STEVE series works.
 - **03/2024**: One paper accepted to ICLR 2024 workshop at [LLM Agents](https://llmagents.github.io/).
 - **02/2024**: Two papers accepted to CVPR 2024.
 - **02/2024**: Invited talk at AAAI 2024 workshop at [IMAGEOMICS](https://sites.google.com/vt.edu/imageomics-aaai-24/).
