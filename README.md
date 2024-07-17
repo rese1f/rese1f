@@ -36,6 +36,8 @@ When I am not doing research, I like photography, traveling, and singing.
 <br>
 <br>
 
+- **07/2024**: Two papers accepted to ACM MM 2024.
+- **07/2024**: Two papers accepted to ECCV 2024.
 - **06/2024**: One technique report accepted to CVPR 2024 workshop @ NTIRE.
 - **06/2024**: We are working with Pika Lab to develop next-generation video understanding and generation models.
 - **05/2024**: One paper accepted to CVPR 2024 workshop @ Embodied AI.
