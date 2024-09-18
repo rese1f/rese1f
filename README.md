@@ -1,4 +1,4 @@
-I am currently a internship at Pika Lab, and also a master student of Information Processing Lab at University of Washington. I am currently working on video understanding and generation, as well as embodied agent. Have a look at my [homepage](https://rese1f.github.io/) for more details.
+I am currently a master student of Information Processing Lab at University of Washington. I am currently working on video understanding and generation, as well as embodied agent. Have a look at my [homepage](https://rese1f.github.io/) for more details.
 
 When I am not doing research, I like photography, traveling, and singing.
 
