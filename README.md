@@ -29,6 +29,7 @@ When I am not doing research, I like photography, traveling, and singing.
 <br>
 <br>
 
+- **10/2024**: I start to write blogs. Check it out [here](https://rese1f.github.io/blogs.html).
 - **07/2024**: Two papers accepted to ACM MM 2024.
 - **07/2024**: Two papers accepted to ECCV 2024.
 - **06/2024**: One technique report accepted to CVPR 2024 workshop @ NTIRE.
