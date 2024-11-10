@@ -12,7 +12,7 @@ When I am not doing research, I like photography, traveling, and singing.
 <a href="https://linkedin.com/in/wenhao-chai-658274238/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/re5e1f" target="_blank">
+<a href="https://twitter.com/wenhaocha1" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%232E87FB.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
  <a href="./src/wechat.jpg" target="_blank">
 <img src=https://img.shields.io/badge/wechat-%a3c62b.svg?&style=for-the-badge&logo=wechat&logoColor=white alt=wechat style="margin-bottom: 5px;" />
