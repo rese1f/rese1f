@@ -26,6 +26,8 @@ When I am not doing research, I like photography, traveling, and singing.
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <b><i class="fa-solid fa-pen-to-square" style="font-size:24px"></i> Updates:</b>
 
+[get full list](https://rese1f.github.io/news.html)
+
 <br>
 <br>
 
