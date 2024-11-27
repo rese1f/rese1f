@@ -32,6 +32,7 @@ When I am not doing research, I like photography, traveling, and singing.
 - **07/2024**: Two papers accepted to ACM MM 2024.
 - **07/2024**: Two papers accepted to ECCV 2024.
 - **06/2024**: One technique report accepted to CVPR 2024 workshop @ NTIRE.
+- **06/2024**  MovieChat is selected as a highlight paper (rank 68) of CVPR 2024 in [Paper Digest](https://www.paperdigest.org/2024/06/cvpr-2024-highlights/).
 - **06/2024**: We are working with Pika Lab to develop next-generation video understanding and generation models.
 - **05/2024**: One paper accepted to CVPR 2024 workshop @ Embodied AI.
 - **04/2024**: We are hosting CVPR 2024 Long-form Video Understanding Challenge @ LOVEU.
