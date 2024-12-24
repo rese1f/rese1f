@@ -1,4 +1,4 @@
-name: snakegif
+name: snake
 
 on:
   # run automatically every 24 hours
