@@ -22,8 +22,12 @@ When I am not doing research, I like photography, traveling, and singing.
 </a>  
 </div>
 
-<br>
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rese1f/rese1f/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rese1f/rese1f/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rese1f/rese1f/output/github-contribution-grid-snake.svg">
+</picture>
 
 Updates: [get full list](https://rese1f.github.io/news.html)
 
@@ -51,10 +55,4 @@ Updates: [get full list](https://rese1f.github.io/news.html)
 - **07/2023**: Two papers accepted to ACM MM 2023.
 - **07/2023**: Finished my research internship at Microsoft Research Asia (MSRA), Beijing.
 - **07/2023**: Two papers accepted to ICCV 2023.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rese1f/rese1f/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rese1f/rese1f/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rese1f/rese1f/output/github-contribution-grid-snake.svg">
-</picture>
 
