@@ -24,10 +24,11 @@ When I am not doing research, I like photography, traveling, and singing.
 
 <br>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-<b><i class="fa-solid fa-pen-to-square" style="font-size:24px"></i> Updates:</b>
 
-[get full list](https://rese1f.github.io/news.html)
+Updates: [get full list](https://rese1f.github.io/news.html)
 
+- **04/2025**: We are hosting CVPR 2025 Long-form Video Understanding Challenge @ LOVEU.
+- **12/2024**: One paper accepted to ICASSP 2025.
 - **12/2024**: Two papers accepted to AAAI 2025.
 - **10/2024**: I start to write blogs. Check it out [here](https://rese1f.github.io/blogs.html).
 - **07/2024**: Two papers accepted to ACM MM 2024.
@@ -51,4 +52,9 @@ When I am not doing research, I like photography, traveling, and singing.
 - **07/2023**: Finished my research internship at Microsoft Research Asia (MSRA), Beijing.
 - **07/2023**: Two papers accepted to ICCV 2023.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rese1f/rese1f/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rese1f/rese1f/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rese1f/rese1f/output/github-contribution-grid-snake.svg">
+</picture>
 
