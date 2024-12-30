@@ -32,6 +32,7 @@ When I am not doing research, I like photography, traveling, and singing.
 Updates: [get full list](https://rese1f.github.io/news.html)
 
 - **04/2025**: We are hosting CVPR 2025 Long-form Video Understanding Challenge @ LOVEU.
+- **01/2025**: We are hosting Discord server among professors and students for arXiv daily sharing and research discussion.
 - **12/2024**: One paper accepted to ICASSP 2025.
 - **12/2024**: Two papers accepted to AAAI 2025.
 - **10/2024**: I start to write blogs. Check it out [here](https://rese1f.github.io/blogs.html).
