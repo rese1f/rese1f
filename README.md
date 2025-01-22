@@ -33,6 +33,7 @@ Updates: [get full list](https://rese1f.github.io/news.html)
 
 - **04/2025**: We are hosting CVPR 2025 Long-form Video Understanding Challenge @ LOVEU.
 - **01/2025**: Two papers accepted to ICLR 2025.
+- **01/2025**: One paper accepted to TMM.
 - **01/2025**: We are hosting Discord server among professors and students for arXiv daily sharing and research discussion.
 - **12/2024**: One paper accepted to ICASSP 2025.
 - **12/2024**: Two papers accepted to AAAI 2025.
