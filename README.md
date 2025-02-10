@@ -33,7 +33,7 @@ Updates: [get full list](https://rese1f.github.io/news.html)
 
 - **04/2025**: We are hosting CVPR 2025 Long-form Video Understanding Challenge @ LOVEU.
 - **01/2025**: Two papers accepted to ICLR 2025.
-- **01/2025**: One paper accepted to TMM.
+- **01/2025**: One paper accepted to IEEE TMM.
 - **01/2025**: We are hosting Discord server among professors and students for arXiv daily sharing and research discussion.
 - **12/2024**: Two papers accepted to AAAI 2025.
 - **10/2024**: I start to write blogs. Check it out [here](https://rese1f.github.io/blogs.html).
@@ -46,11 +46,8 @@ Updates: [get full list](https://rese1f.github.io/news.html)
 - **02/2024**: Two papers accepted to CVPR 2024.
 - **02/2024**: Invited talk at AAAI 2024 workshop at [IMAGEOMICS](https://sites.google.com/vt.edu/imageomics-aaai-24/).
 - **12/2023**: One paper accepted to AAAI 2024.
-- **11/2023**: Two papers accepted to WACV 2024 and its workshop at [CV4Smalls](https://cv4smalls.sites.northeastern.edu/).
 - **09/2023**: One paper accepted to ICCV 2023 workshop at [TNGCV-DataComp](https://www.datacomp.ai/).
-- **09/2023**: One paper accepted to IEEE T-MM.
-- **08/2023**: One paper accepted to BMVC 2023.
-- **07/2023**: Two papers accepted to ACM MM 2023.
+- **09/2023**: One paper accepted to IEEE TMM.
 - **07/2023**: Finished my research internship at Microsoft Research Asia (MSRA), Beijing.
 - **07/2023**: Two papers accepted to ICCV 2023.
 
