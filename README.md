@@ -31,7 +31,7 @@ When I am not doing research, I like photography, traveling, and singing.
 
 <br>
 
-🔥 News ([get full list here!](https://rese1f.github.io/news.html))
+### 🔥 News ([Read More](https://rese1f.github.io/news.html))
 
 - **04/2025**: We are hosting CVPR 2025 Long-form Video Understanding Challenge @ LOVEU.
 - **01/2025**: Two papers accepted to ICLR 2025.
