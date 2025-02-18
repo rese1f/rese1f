@@ -4,18 +4,24 @@ I'm a graduate student at **University of Washington** focused on computer visio
 
 ## About Me
 
-- 🎓 **Graduate Student** @ [University of Washington](https://www.washington.edu)
+- 🎓 **Graduate Student** at University of Washington
 - 📚 Former undergraduate at Zhejiang University  
 - 🔬 Research interests: video understanding, LMM, and generative models
-- 🤝 Collaborated with leading labs and renowned researchers including the [Information Processing Lab](https://ipl-uw.github.io), [CVNext Lab](https://cvnext.github.io), Stanford NLP, and more
+- 🤝 Collaborated with leading labs and researchers including the [Pika Labs](https://pika.art/), [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), [Information Processing Lab](https://ipl-uw.github.io), [CVNext Lab](https://cvnext.github.io), and more.
 
 **Docs & Profiles:**  
+- [Website](https://rese1f.github.io)
 - [CV](https://rese1f.github.io/assets/file/cv.pdf)  
 - [Google Scholar](https://scholar.google.com/citations?user=SL--7UMAAAAJ&hl=en)  
 
+## News
+
+- To junior master/undergraduate students: if you would like to chat about life, career plan, or research ideas related to AI/ML, feel free to send me zoom / google meet invitation via email to schedule a meeting. I will dedicate at least 30 mins every week for such meetings. I encourage students from underrepresented groups to reach out.
+- We are hosting Discord server among professors and students for arXiv daily sharing and research discussion.
+
 ## Research & Projects
 
-Here are some of my key projects and publications:
+Here are some of my recent key projects and publications:
 
 - **(ICLR 2025) AuroraCap**  
   *Efficient and performant video detailed captioning, plus a new benchmark.*  
