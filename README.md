@@ -1,6 +1,6 @@
 # Hi, I'm Wenhao Chai 👋
 
-I'm a graduate student at **University of Washington** focused on computer vision research in large multimodal models, video understanding, embodied agents, and generative models. I love exploring innovative ideas that bridge theory and real-world applications.
+I'm a graduate student at **University of Washington** focused on computer vision research in large multimodal models, video understanding, embodied agents, and generative models. I love exploring innovative ideas that bridge theory and real-world applications. I believe computer vision will continue to advance.
 
 ## About Me
 
