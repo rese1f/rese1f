@@ -27,15 +27,15 @@ I have just begun shaping my research narrative around visual intelligence. With
 
 Here are some of my recent key projects and publications:
 
-- **(ICLR 2025) AuroraCap**  
+- **(ICLR 2025) AuroraCap: Efficient, Performant Video Detailed Captioning and a New Benchmark**  
   *Efficient and performant video detailed captioning, plus a new benchmark.*  
   [Project Page](https://rese1f.github.io/aurora-web/) | [Paper](https://arxiv.org/abs/2410.03051) | [Code](https://github.com/rese1f/aurora)
  
-- **(CVPR 2024) MovieChat**  
+- **(CVPR 2024) MovieChat: From Dense Token to Sparse Memory in Long Video Understanding**  
   *From dense token to sparse memory: advancing long video understanding with state-of-the-art memory mechanisms.*  
   [Project Page](https://rese1f.github.io/MovieChat/) | [Paper](https://arxiv.org/abs/2307.16449) | [Code](https://github.com/rese1f/MovieChat)
 
-- **(ICCV 2023) StableVideo**  
+- **(ICCV 2023) StableVideo: Text-driven Consistency-aware Diffusion Video Editing**  
   *Text-driven, consistency-aware diffusion video editing for generating coherent video content.*  
   [Project Page](https://rese1f.github.io/StableVideo/) | [Paper](https://arxiv.org/abs/2308.09592) | [Code](https://github.com/rese1f/StableVideo)
 
