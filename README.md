@@ -14,12 +14,16 @@ I'm a graduate student at **University of Washington** focused on computer visio
 - [CV](https://rese1f.github.io/assets/file/cv.pdf)  
 - [Google Scholar](https://scholar.google.com/citations?user=SL--7UMAAAAJ&hl=en)  
 
-## News
+## Pinned Message
 
 - To junior master/undergraduate students: if you would like to chat about life, career plan, or research ideas related to AI/ML, feel free to send me zoom / google meet invitation via email to schedule a meeting. I will dedicate at least 30 mins every week for such meetings. I encourage students from underrepresented groups to reach out.
 - We are hosting Discord server among professors and students for arXiv daily sharing and research discussion.
 
 ## Research & Projects
+
+My current research currently focus on developing <b>visual intelligence</b> to understand the physical world, building upon video understanding as a core perceptual mechanism. I propose a long-short term memory framework modeled after the human memory system, enabling pre-trained video Large Multi-modal Models (LMMs) to comprehend hour-long video content without additional fine-tuning. To enhance efficiency, I introduce token merging to LMMs, significantly reducing visual tokens with minimal performance degradation. I also demonstrate step-by-step agent system development in Minecraft, showcasing cognitive-inspired agent capabilities in virtual environments.
+
+I have just begun shaping my research narrative around visual intelligence. With "pretraining as we know it will end"</i>, I believe the future of artificial intelligence lies in aligning with human intelligence—and ultimately surpassing it. I truly believe computer vision will continue to advance.
 
 Here are some of my recent key projects and publications:
 
