@@ -7,7 +7,7 @@ I'm a graduate student at **University of Washington** focused on computer visio
 - 🎓 **Graduate Student** at University of Washington
 - 📚 Former undergraduate at Zhejiang University  
 - 🔬 Research interests: video understanding, LMM, and generative models
-- 🤝 Collaborated with leading labs and researchers including the [Pika Labs](https://pika.art/), [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), [Information Processing Lab @ UW](https://ipl-uw.github.io), [CVNext Lab @ZJU](https://cvnext.github.io), and more.
+- 🤝 Collaborated with leading labs and researchers including the [Pika Labs](https://pika.art/), [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), [Information Processing Lab @ UW](https://ipl-uw.github.io), [CVNext Lab @ ZJU](https://cvnext.github.io), and more.
 
 **Docs & Profiles:**  
 - [Website](https://rese1f.github.io)
