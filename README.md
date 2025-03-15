@@ -39,7 +39,7 @@ Here are some of my recent key projects and publications:
   *Text-driven, consistency-aware diffusion video editing for generating coherent video content.*  
   [Project Page](https://rese1f.github.io/StableVideo/) | [Paper](https://arxiv.org/abs/2308.09592) | [Code](https://github.com/rese1f/StableVideo)
 
-_For a full list of my publications and detailed project descriptions, please visit my [website](https://rese1f.github.io)._
+_For a full list of my publications and detailed project descriptions, please visit my [website](wenhaochai.com)._
 
 ## Connect with Me
 
