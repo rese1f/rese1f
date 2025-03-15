@@ -50,7 +50,7 @@ _For a full list of my publications and detailed project descriptions, please vi
 
 ---
 
-*This README is inspired by my personal website – [rese1f.github.io](https://rese1f.github.io/). Feel free to explore for more details about my research and projects.*
+*This README is inspired by my personal website – [wenhaochai.com](wenhaochai.com). Feel free to explore for more details about my research and projects.*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rese1f/rese1f/output/github-contribution-grid-snake-dark.svg">
