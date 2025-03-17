@@ -1,6 +1,6 @@
 # Hi, I'm Wenhao Chai 👋
 
-I'm a graduate student at **University of Washington** focused on computer vision research in large multimodal models, video understanding, embodied agents, and generative models. I love exploring innovative ideas that bridge theory and real-world applications. I believe computer vision will continue to advance.
+I'm a graduate student at **University of Washington**. My research spans a wide range of topics in computer vision and deep learning. I love exploring innovative ideas that bridge theory and real-world applications. 
 
 ## About Me
 
@@ -20,10 +20,6 @@ I'm a graduate student at **University of Washington** focused on computer visio
 - We are hosting Discord server among professors and students for arXiv daily sharing and research discussion.
 
 ## Research & Projects
-
-My current research currently focus on developing <b>visual intelligence</b> to understand the physical world, building upon video understanding as a core perceptual mechanism. I propose a long-short term memory framework modeled after the human memory system, enabling pre-trained video Large Multi-modal Models (LMMs) to comprehend hour-long video content without additional fine-tuning. To enhance efficiency, I introduce token merging to LMMs, significantly reducing visual tokens with minimal performance degradation. I also demonstrate step-by-step agent system development in Minecraft, showcasing cognitive-inspired agent capabilities in virtual environments.
-
-I have just begun shaping my research narrative around visual intelligence. With "pretraining as we know it will end"</i>, I believe the future of artificial intelligence lies in aligning with human intelligence—and ultimately surpassing it. I truly believe computer vision will continue to advance.
 
 Here are some of my recent key projects and publications:
 
