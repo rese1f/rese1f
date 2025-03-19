@@ -1,13 +1,12 @@
 # Hi, I'm Wenhao Chai 👋
 
-I'm a graduate student at **University of Washington**. My research spans a wide range of topics in computer vision and deep learning. I love exploring innovative ideas that bridge theory and real-world applications. 
-
 ## About Me
 
-- 🎓 **Graduate Student** at University of Washington
-- 📚 Former undergraduate at Zhejiang University  
-- 🔬 Research interests: video understanding, LMM, and generative models
-- 🤝 Collaborated with leading labs and researchers including the [Pika Labs](https://pika.art/), [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), [Information Processing Lab @ UW](https://ipl-uw.github.io), [CVNext Lab @ ZJU](https://cvnext.github.io), and more.
+- 🎓 In coming CS PhD student.
+- 🎓 Ex Graduate Student at University of Washington
+- 🎓 Ex undergraduate at Zhejiang University  
+- 🔬 My research spans a wide range of topics in computer vision and deep learning. I love exploring innovative ideas that bridge theory and real-world applications. 
+- 🤝 Internshop with leading labs and researchers including the [Pika Labs](https://pika.art/), [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), and more.
 
 **Docs & Profiles:**  
 - [Website](https://rese1f.github.io)
