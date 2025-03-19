@@ -1,8 +1,6 @@
 # Hi, I'm Wenhao Chai 👋
 
-## About Me
-
-- 🎓 In coming CS PhD student.
+- 🎓 Incoming CS PhD student.
 - 🎓 Ex Graduate Student at University of Washington
 - 🎓 Ex undergraduate at Zhejiang University  
 - 🔬 My research spans a wide range of topics in computer vision and deep learning. I love exploring innovative ideas that bridge theory and real-world applications. 
