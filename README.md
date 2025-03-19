@@ -3,8 +3,8 @@
 - 🎓 Incoming CS PhD student.
 - 🎓 Ex Graduate Student at University of Washington
 - 🎓 Ex undergraduate at Zhejiang University  
+- 🤝 Ex Intern with [Pika Labs](https://pika.art/), [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), and more.
 - 🔬 My research spans a wide range of topics in computer vision and deep learning. I love exploring innovative ideas that bridge theory and real-world applications. 
-- 🤝 Internshop with leading labs and researchers including the [Pika Labs](https://pika.art/), [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), and more.
 
 **Docs & Profiles:**  
 - [Website](https://rese1f.github.io)
